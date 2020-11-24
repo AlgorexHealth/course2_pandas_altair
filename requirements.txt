@@ -1,0 +1,5 @@
+altair
+pandas 
+geopandas
+jupyterlab
+nb_black
